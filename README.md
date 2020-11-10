@@ -1,5 +1,5 @@
 # ATM - Aula de Teoria Musical
-![MatthewsWorld](https://matthewsworld.life/img/logo-atm.png)
+![MatthewsWorld](https://matthewsworld.me/img/logo-atm.png)
 
 **Description:** Plataforma de Aulas de Teoria Musical. Possui conteúdo para aulas práticas, teóricas e atividades interativas para Violão, Guitarra e Teclado.
 
