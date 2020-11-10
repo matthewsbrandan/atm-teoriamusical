@@ -5,16 +5,10 @@ audio/sequencia/*
 
 back/password.php
 
-css/bootstrap*
-
 doc/*.pdf
 doc/guitarra/*
 doc/teclado/*
 doc/violao/*
-
-js/bootstrap*
-js/jquery.min.js
-js/jquery/*
 
 matthewsworld/*
 

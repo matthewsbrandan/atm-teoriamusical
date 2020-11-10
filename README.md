@@ -24,7 +24,6 @@
 
 - Quais arquivos foram ignorados?
     - Arquivos com dados de acesso root.
-    - CSS, JQuery e JS Bootstrap, pois podem ser baixados diretamente pelo site [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/download/)
     - Material de estudos nas extensões PDF e MP3.
 
 ## Developed by
